@@ -70,6 +70,7 @@ main.card {
 
 .card__details {
     padding: 1rem;
+    background-color: var(--White);
 }
 
 
