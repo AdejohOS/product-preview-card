@@ -47,7 +47,7 @@ body {
     font-family: var(--primary-font);
     background-color: var(--Cream);
     color: var(--Dark-grayish-blue);
-    height: 100vh;
+    min-height: 100vh;
     padding:  1.5rem;
 }
 
